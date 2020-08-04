@@ -59,7 +59,7 @@
       <div class="icon" />
     </div>
 
-    <div id="silentbox-overlay__arrow-buttons" v-if="totalItems > 1">
+    <div id="silentbox-overlay__arrow-buttons" v-if="totalItems > 0">
       <div
         class="arrow arrow-previous"
         role="button"
